@@ -1,0 +1,78 @@
+@import "tailwindcss"; 
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme{
+    --color-black-haze-50: #f4f6f8;
+--color-black-haze-100: #eceff2;
+--color-black-haze-200: #d4dde3;
+--color-black-haze-300: #aebfcb;
+--color-black-haze-400: #839cad;
+--color-black-haze-500: #638094;
+--color-black-haze-600: #4f677a;
+--color-black-haze-700: #405364;
+--color-black-haze-800: #384754;
+--color-black-haze-900: #323e48;
+--color-black-haze-950: #212830;
+
+--color-shamrock-50: #ecfdf4;
+--color-shamrock-100: #d1fae3;
+--color-shamrock-200: #a7f3cd;
+--color-shamrock-300: #6ee7b2;
+--color-shamrock-400: #3ed598;
+--color-shamrock-500: #10b97a;
+--color-shamrock-600: #059663;
+--color-shamrock-700: #047852;
+--color-shamrock-800: #065f43;
+--color-shamrock-900: #064e38;
+--color-shamrock-950: #022c20;
+
+--color-cornflower-blue-50: #eff5ff;
+--color-cornflower-blue-100: #dbe7fe;
+--color-cornflower-blue-200: #c0d7fd;
+--color-cornflower-blue-300: #94bdfc;
+--color-cornflower-blue-400: #4f8ef7;
+--color-cornflower-blue-500: #3e76f3;
+--color-cornflower-blue-600: #2856e8;
+--color-cornflower-blue-700: #2042d5;
+--color-cornflower-blue-800: #2037ad;
+--color-cornflower-blue-900: #1f3389;
+--color-cornflower-blue-950: #182153;
+
+--color-outer-space-50: #f4f6f7;
+--color-outer-space-100: #e2e8eb;
+--color-outer-space-200: #c8d3d9;
+--color-outer-space-300: #a1b3bf;
+--color-outer-space-400: #738c9d;
+--color-outer-space-500: #587182;
+--color-outer-space-600: #4c5e6e;
+--color-outer-space-700: #424f5c;
+--color-outer-space-800: #3b454f;
+--color-outer-space-900: #333a42;
+--color-outer-space-950: #20262c;
+
+--color-mustard-50: #fefbe8;
+--color-mustard-100: #fff7c2;
+--color-mustard-200: #ffec89;
+--color-mustard-300: #ffdd57;
+--color-mustard-400: #fdc412;
+--color-mustard-500: #ecaa06;
+--color-mustard-600: #cc8202;
+--color-mustard-700: #a35b05;
+--color-mustard-800: #86480d;
+--color-mustard-900: #723b11;
+--color-mustard-950: #431d05;
+
+
+
+  --font-blinker: 'Blinker', sans-serif;
+}
+
+
+@layer utilities{
+
+}
+
+
+    
+    
